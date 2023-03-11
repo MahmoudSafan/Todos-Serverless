@@ -21,7 +21,7 @@ simple TODO application using AWS Lambda and Serverless framework
    sls config credentials --provider aws --key YOUR_ACCESS_KEY_ID --secret YOUR_SECRET_KEY --profile serverless
    ```
    
-   # How to run the application
+# How to run the application
 
 ## Backend
 
